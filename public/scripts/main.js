@@ -3,4 +3,5 @@
   yo.controller('mainController', function ($scope) {
     $scope.name = "Your Name Goes Here";
   });
+  
 }());
