@@ -1,1 +1,3 @@
 Testing the Yo generator on a new mac installation
+
+Nothing special. Nothing to see here...
