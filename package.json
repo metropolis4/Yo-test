@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4",
+    "jade": "^1",
+    "body-parser": "^1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.0",
+    "karma": "^0.12.31",
+    "underscore": "^1.8.3"
+  }
+}
