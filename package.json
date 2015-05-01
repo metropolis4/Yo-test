@@ -1,8 +1,9 @@
 {
   "dependencies": {
+    "body-parser": "^1",
     "express": "^4",
     "jade": "^1",
-    "body-parser": "^1"
+    "less": "^2.5.0"
   },
   "devDependencies": {
     "jasmine": "^2.3.0",
